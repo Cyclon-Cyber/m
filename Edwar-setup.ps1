@@ -4,3 +4,4 @@ Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 choco install hexchat
 choco install qbittorrent
 start powershell 
+start "C:\Program Files\OpenBoxLab\RaiDrive\RaiDrive.exe"
